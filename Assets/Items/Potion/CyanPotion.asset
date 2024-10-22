@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc9d6e014a06ffb4f8d495190ebf7434, type: 3}
+  m_Name: CyanPotion
+  m_EditorClassIdentifier: 
+  itemName: CyanPotion
+  itemImage: {fileID: 21300000, guid: 2204f313e21d7b44799033a4762eadab, type: 3}
+  inSlotImage: {fileID: 21300000, guid: 659dff7341f24f243a9cd8b062aa7e83, type: 3}
