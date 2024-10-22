@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ScreenManager
+  - Inventory
+  - AttackPattern
+  - DialogObj
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - AttackArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2710322313
+    locked: 0
+  - name: Obj
+    uniqueID: 2330425359
+    locked: 0
+  - name: obj2
+    uniqueID: 4157748075
+    locked: 0
+  - name: obj3
+    uniqueID: 2521073707
+    locked: 0
+  - name: obj4
+    uniqueID: 129624795
+    locked: 0
+  - name: UI
+    uniqueID: 692990127
+    locked: 0
