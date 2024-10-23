@@ -12,3 +12,6 @@ MEMENTO MORI는 유니티 엔진을 사용하여 개발된 2D 방탈출 게임�
 - **게임 엔진**: Unity
 - **언어**: C#
 - **플랫폼**: PC
+
+## 시연 영상
+- [MEMENTO MORI 시연 영상](https://www.youtube.com/watch?v=fX6N1eZD8ww&t=9s)
